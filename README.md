@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🏆 Competitive Programming
 
-<!--
-**omnavale9860-bot/omnavale9860-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CodeChef: omiii_5126
 
-Here are some ideas to get you started:
+* Solving problems in C++
+* Data Structures & Algorithms Enthusiast
+* Regular Competitive Programming Practice
+* Focused on Problem Solving and Contest Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+
+* Reach higher CodeChef rating
+* Solve 500+ DSA problems
+* Build AI and Full-Stack projects
+* Contribute to Open Source
