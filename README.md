@@ -1,16 +1,20 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Om Navale banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&height=40&lines=Hello%2C+World!+I'm" alt="Hello World" />
 
-<a href="https://github.com/omnavale9860-bot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+Student;Full-Stack+Developer+%F0%9F%8C%90;Competitive+Programmer+in+the+making+%E2%9A%A1;Building+AI+projects+that+solve+real+problems+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=58&duration=3500&pause=2500&color=38BDF8&center=true&vCenter=true&width=900&height=100&lines=OM+NAVALE" alt="Om Navale" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=800&height=50&lines=B.Tech+AI+%26+Data+Science+Student;Full-Stack+Developer;Competitive+Programmer;Building+AI+projects+that+solve+real+problems" alt="Typing SVG" />
+
+✦ ━━━━━━━━━━━━━━━━━━━━ ✦
 
 <a href="https://www.linkedin.com/in/om-navale-a75b71374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/omnavale9860-bot"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:omnavale9860@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-34A0A3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=omnavale9860-bot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 
 </div>
 
@@ -33,7 +37,10 @@ class OmNavale:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+**Status:** 🟢 Open to internships & collaborations  
+**Learning now:** 🌱 LangChain / RAG · System Design · Docker
 
 - 🔭 Building **AI-powered apps** and backend systems
 - 🧩 Practising **DSA & Competitive Programming** daily
@@ -60,15 +67,26 @@ class OmNavale:
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" /><br/><br/>
 
 **Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" /><br/><br/>
 
 **AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br/><br/>
 
 **Databases & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,git,github,docker,linux,vscode" />
 
 </div>
+
+### 📈 Skill Proficiency
+
+| Skill | Level | |
+|-------|-------|--|
+| Python 🐍 | `█████████░` | 88% |
+| C++ 🦾 | `████████░░` | 82% |
+| JavaScript ⚡ | `████████░░` | 80% |
+| Node.js 🔥 | `████████░░` | 78% |
+| React 🎭 | `███████░░░` | 72% |
+| AI / ML 🤖 | `███████░░░` | 70% |
 
 ---
 
@@ -162,12 +180,8 @@ Automation bot for terminal and Tmux workflows on Linux.
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=omnavale9860-bot&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnavale9860-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=omnavale9860-bot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img height="190" src="https://streak-stats.demolab.com?user=omnavale9860-bot&theme=tokyonight&hide_border=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnavale9860-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
@@ -179,12 +193,16 @@ Automation bot for terminal and Tmux workflows on Linux.
 
 ## 🎯 2026 Goals
 
-- [ ] Solve **500+ quality DSA problems**
-- [ ] Improve **Competitive Programming rating**
-- [ ] Build more **AI-powered applications**
-- [ ] Level up **Full-Stack Development**
-- [ ] Make my first **open-source contribution**
-- [ ] Ship projects that **solve real problems**
+| Goal | Status |
+|------|--------|
+| Solve **500+ quality DSA problems** | ⬜ In progress |
+| Improve **Competitive Programming rating** | ⬜ In progress |
+| Build more **AI-powered applications** | ⬜ In progress |
+| Level up **Full-Stack Development** | ⬜ In progress |
+| Make my first **open-source contribution** | ⬜ Not started |
+| Ship projects that **solve real problems** | ⬜ In progress |
+
+> Change ⬜ to ✅ as you complete each goal.
 
 ---
 
@@ -194,11 +212,14 @@ Automation bot for terminal and Tmux workflows on Linux.
 
 <a href="https://www.linkedin.com/in/om-navale-a75b71374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/omnavale9860-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:omnavale9860@gmail.com"><img src="https://img.shields.io/badge/Email-34A0A3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-*"First, solve the problem. Then, write the code."* ✨
+💬 *"First, solve the problem. Then, write the code."* ✨
 
-<img src="assets/banner.svg" width="100%" alt="footer"/>
+<br/>
+
+Made with ❤️ by Om Navale
 
 </div>
