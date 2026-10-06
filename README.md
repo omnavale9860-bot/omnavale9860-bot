@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Om%20Navale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="banner"/>
+<img src="assets/banner.svg" width="100%" alt="Om Navale banner"/>
 
 <a href="https://github.com/omnavale9860-bot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+Student;Full-Stack+Developer+%F0%9F%8C%90;Competitive+Programmer+in+the+making+%E2%9A%A1;Building+AI+projects+that+solve+real+problems+%F0%9F%A4%96" alt="Typing SVG" />
@@ -11,7 +11,6 @@
 
 <a href="https://www.linkedin.com/in/om-navale-a75b71374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/omnavale9860-bot"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=omnavale9860-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -200,6 +199,6 @@ Automation bot for terminal and Tmux workflows on Linux.
 
 *"First, solve the problem. Then, write the code."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="footer"/>
 
 </div>
